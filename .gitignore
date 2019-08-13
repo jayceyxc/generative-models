@@ -100,3 +100,19 @@ GAN/loss_sensitive_gan/
 GAN/generative_adversarial_parallelization/gap_tensorflow.py
 
 .vscode
+
+*.pyc
+*.swp
+*.h5
+*.hdf5
+.idea/
+
+*/images/*.png
+*/images/*.jpg
+*/*.jpg
+*/*.png
+*.json
+.DS_Store
+*/datasets
+
+__pycache__
